@@ -1,0 +1,3 @@
+"G:\\ITATS\\Semester 3\\Praktikum PBO\\Soal Praktikum\\java\\PBO_Enggal\\src\\Buku.java"
+"G:\\ITATS\\Semester 3\\Praktikum PBO\\Soal Praktikum\\java\\PBO_Enggal\\src\\DataDiri.java"
+"G:\\ITATS\\Semester 3\\Praktikum PBO\\Soal Praktikum\\java\\PBO_Enggal\\src\\PBO_Enggal.java"
