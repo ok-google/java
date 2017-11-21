@@ -1,0 +1,5 @@
+"G:\\ITATS\\Semester 3\\Praktikum PBO\\Soal Praktikum\\java\\PBO_Adi\\src\\AbstractKonversi.java"
+"G:\\ITATS\\Semester 3\\Praktikum PBO\\Soal Praktikum\\java\\PBO_Adi\\src\\ganjilGenap.java"
+"G:\\ITATS\\Semester 3\\Praktikum PBO\\Soal Praktikum\\java\\PBO_Adi\\src\\Konversi.java"
+"G:\\ITATS\\Semester 3\\Praktikum PBO\\Soal Praktikum\\java\\PBO_Adi\\src\\PBO_Adi.java"
+"G:\\ITATS\\Semester 3\\Praktikum PBO\\Soal Praktikum\\java\\PBO_Adi\\src\\varGanjilGenap.java"
