@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Enggal_Modul2</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Enggal_Modul2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Enggal_Modul2.jcp</path>
+		</project>
+	</projects>
+</workspace>

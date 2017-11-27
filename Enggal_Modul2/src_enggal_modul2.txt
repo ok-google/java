@@ -1,0 +1,4 @@
+"C:\\Users\\ikky\\Documents\\JCreator Pro\\MyProjects\\Enggal_Modul2\\src\\Enggal_Modul2.java"
+"C:\\Users\\ikky\\Documents\\JCreator Pro\\MyProjects\\Enggal_Modul2\\src\\kamus\\dataKamus.java"
+"C:\\Users\\ikky\\Documents\\JCreator Pro\\MyProjects\\Enggal_Modul2\\src\\kamus\\English.java"
+"C:\\Users\\ikky\\Documents\\JCreator Pro\\MyProjects\\Enggal_Modul2\\src\\kamus\\Indonesia.java"
